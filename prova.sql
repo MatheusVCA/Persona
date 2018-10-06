@@ -23,3 +23,9 @@ revoke select on employees.salaries from 'Jaelson'@'localhost';
 /* Questão 3.7 */
 grant select on employees.salaries to'Matheus'@'localhost';
 grant select on employees.salaries to'Jaelson'@'localhost';
+
+
+
+
+
+
